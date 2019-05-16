@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[代码高亮]]></title>
+    <url>%2F2019%2F05%2F16%2F1%2F</url>
+    <content type="text"><![CDATA[代码高亮 12345678#include &lt;stdio.h&gt;int main(int argc, char* argv[])&#123; printf("hello world\n"); return 0;&#125;]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[搭建Shameless]]></title>
     <url>%2F2019%2F05%2F13%2F1%2F</url>
     <content type="text"><![CDATA[1234512345678#include &lt;stdio.h&gt;int main(int argc, char* argv[])&#123; printf(&quot;Hello Shameless\n&quot;); return 0;&#125;]]></content>
